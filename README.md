@@ -1,10 +1,11 @@
 <h3 align="center">
-Hi there, I'm <a href="https://cv.jerosweb.com/" target="_blank" rel="noreferrer">Jerosweb</a> 👋
+Hi there, I'm <a href="https://cv.jerosweb.com/" target="_blank" rel="noreferrer">Jeros</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Web Developer 💻, and DataBase Administrator 🎨!
+I'm a Web Developer 💻 and DataBase Administrator 🎨!
 </h2> 
+I represent myself as a penguin bear 🐧🐻.
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
@@ -34,6 +35,15 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
+## 📈 GitHub Stats of Zedauna 😛
+
+![](https://github-readme-stats.vercel.app/api?username=Zedauna&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zedauna&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zedauna&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+Last update on Sun Jul 23 2023
+
+🤖 This README.md is updated with undefined, by Gabot ❤️
 
 <!---
 zedauna/zedauna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
