@@ -5,7 +5,7 @@ Hi there, I'm <a href="https://cv.jerosweb.com/" target="_blank" rel="noreferrer
 <h2 align="center">
 I'm a Web Developer 💻 and DataBase Administrator 🎨!
 </h2> 
-I represent myself as a Caméléon🦎.
+I represent myself as a penguin bear 🐧🐻.
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
@@ -41,9 +41,9 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zedauna&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zedauna&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-Last update on   Wednesday , 2023-07-26
+Last update on   Thursday , 2023-07-27
 
-🤖 This README.md is updated with pleasure, by Zedauna (Python , Batch) ❤️
+🤖 This README.md is updated with wickedness, by Zedauna (Python , Batch) ❤️
 
 <!---
 zedauna/zedauna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
