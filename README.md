@@ -41,6 +41,10 @@ I love the entire process of developing creative websites. I love the challenge 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zedauna&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zedauna&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+![Profile](https://komarev.com/ghpvc/?username=Zedauna)
+[![GitHub followers](https://img.shields.io/github/followers/Zedauna?style=social)](https://www.github.com/Zedauna)
+
+
 Last update on   Friday , 2023-08-04
 
 🤖 This README.md is updated with cruelty, by Zedauna (Python , Batch) ❤️
