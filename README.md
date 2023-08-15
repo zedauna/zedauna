@@ -21,7 +21,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 </br>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -44,7 +44,7 @@ I love the entire process of developing creative websites. I love the challenge 
 ![Profile](https://komarev.com/ghpvc/?username=Zedauna)
 [![GitHub followers](https://img.shields.io/github/followers/Zedauna?style=social)](https://www.github.com/Zedauna)
 
-Last update on Thursday , 2023-08-10
+Last update on   Tuesday , 2023-08-15
 
 🤖 This README.md is updated with wickedness, by Zedauna (Python , Batch) ❤️
 
