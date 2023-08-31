@@ -5,7 +5,7 @@ Hi there, I'm <a href="https://cv.jerosweb.com/" target="_blank" rel="noreferrer
 <h2 align="center">
 I'm a Web Developer 💻 and DataBase Administrator 🎨!
 </h2> 
-I represent myself as a Caméléon🦎.
+I represent myself as a penguin bear 🐧🐻.
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
@@ -21,7 +21,7 @@ I love the entire process of developing creative websites. I love the challenge 
 
 </br>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -37,16 +37,20 @@ I love the entire process of developing creative websites. I love the challenge 
 
 ## 📈 GitHub Stats of Zedauna 😛
 
+<div style="text-align: center;">
+
 ![](https://github-readme-stats.vercel.app/api?username=Zedauna&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zedauna&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zedauna&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+</div>
+
 ![Profile](https://komarev.com/ghpvc/?username=Zedauna)
 [![GitHub followers](https://img.shields.io/github/followers/Zedauna?style=social)](https://www.github.com/Zedauna)
 
-Last update on   Wednesday , 2023-08-30
+Last update on   Thursday , 2023-08-31
 
-🤖 This README.md is updated with pleasure, by Zedauna (Python , Batch) ❤️
+🤖 This README.md is updated with wickedness, by Zedauna (Python , Batch) ❤️
 
 <!---
 zedauna/zedauna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
