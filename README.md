@@ -5,7 +5,7 @@ Hi there, I'm <a href="https://cv.jerosweb.com/" target="_blank" rel="noreferrer
 <h2 align="center">
 I'm a Web Developer 💻 and DataBase Administrator 🎨!
 </h2> 
-I represent myself as a penguin bear 🐧🐻.
+I represent myself as a Caméléon🦎.
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
@@ -48,9 +48,9 @@ I love the entire process of developing creative websites. I love the challenge 
 ![Profile](https://komarev.com/ghpvc/?username=Zedauna)
 [![GitHub followers](https://img.shields.io/github/followers/Zedauna?style=social)](https://www.github.com/Zedauna)
 
-Last update on   Monday , 2026-03-09
+Last update on   Tuesday , 2026-03-10
 
-🤖 This README.md is updated with hate, by Zedauna (Python , Batch) ❤️
+🤖 This README.md is updated with wickedness, by Zedauna (Python , Batch) ❤️
 
 <!---
 zedauna/zedauna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
